@@ -1,2 +1,2 @@
 # Migracion
-Migración por EF Core 
+Migración por EF Core Code First
